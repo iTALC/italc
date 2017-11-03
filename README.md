@@ -1,3 +1,5 @@
+# IMPORTANT NOTE: Please migrate to the successor project Veyon (http://veyon.io or https://github.com/veyon/veyon)! Do not download or use iTALC as it is neither supported nor maintained any longer.
+
 # iTALC - Intelligent Teaching and Learning with Computers
 
 [![Build status](https://img.shields.io/travis/iTALC/italc.svg)](https://travis-ci.org/iTALC/italc)
@@ -27,7 +29,7 @@ provides lots of useful features such as:
 
 ## License
 
-Copyright (c) 2004-2017 Tobias Doerffel / iTALC Solutions.
+Copyright (c) 2004-2017 Tobias Junghans / iTALC Solutions.
 
 See the file COPYING for the GNU GENERAL PUBLIC LICENSE.
 
